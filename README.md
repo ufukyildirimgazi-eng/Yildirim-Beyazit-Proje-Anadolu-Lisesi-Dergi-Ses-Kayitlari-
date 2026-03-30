@@ -73,20 +73,32 @@ Bu kayıtlar kendiliğinden oluşmadı.
 
 Bu sesler, bu insanlar sayesinde var:
 
-Ada Maden
-Nisa Hazal Kaplan
-Ecem Su Öztürk
 Semih Yaser Saygın
+
+Nisa Hazal Kaplan
+
+Ecem Su Öztürk
+
+Ada maden
+
 Zarife Naz Arslanbay
+
 Büşra Nur Kılınç
+
 Havvanur Özmen
+
 Nisa Türkmetin
+
 Gaye Nur Önal
+
 Evin Gidici
+
 Ayşe Ceren Oğuz
+
 Ecmel Verda Yılmaz
 
-Her biri aynı şeyi yapıyor:
+
+Her biri aynı şeyi yapıyor(Semih Hariç):
 
 susmamayı.
 
